@@ -18,7 +18,11 @@ const Footer = () => {
             <div className="space-y-2">
               <a href="tel:+229 0162616386" className="flex items-center text-gray-400 hover:text-[#65c5be]">
                 <Phone size={20} className="mr-2" />
-                +229 01 62616386
+                +229 0162616386
+              </a>
+              <a href="tel:+229 0159975248" className="flex items-center text-gray-400 hover:text-[#65c5be]">
+                <Phone size={20} className="mr-2" />
+                +229 0159975248
               </a>
               <a href="mailto:contact@techflow.digital" className="flex items-center text-gray-400 hover:text-[#65c5be]">
                 <Mail size={20} className="mr-2" />
@@ -30,7 +34,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-semibold mb-4">Suivez-nous</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-[#65c5be]">
+              <a href="https://www.facebook.com/share/19rCNnUaLo/?mibextid=wwXIfr" className="text-gray-400 hover:text-[#65c5be]" target="_blank">
                 <Facebook size={24} />
               </a>
               <a href="#" className="text-gray-400 hover:text-[#65c5be]">
