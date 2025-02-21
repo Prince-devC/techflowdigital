@@ -26,7 +26,7 @@ const Footer = () => {
               </a>
               <a href="mailto:contact@techflow.digital" className="flex items-center text-gray-400 hover:text-[#65c5be]">
                 <Mail size={20} className="mr-2" />
-                contact@techflow.digital
+                techflowdigital@proton.me
               </a>
             </div>
           </div>
