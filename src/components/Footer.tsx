@@ -24,7 +24,7 @@ const Footer = () => {
                 <Phone size={20} className="mr-2" />
                 +229 0159975248
               </a>
-              <a href="mailto:contact@techflow.digital" className="flex items-center text-gray-400 hover:text-[#65c5be]">
+              <a href="mailto:techflowdigital@proton.me" className="flex items-center text-gray-400 hover:text-[#65c5be]">
                 <Mail size={20} className="mr-2" />
                 techflowdigital@proton.me
               </a>
