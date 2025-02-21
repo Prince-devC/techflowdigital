@@ -123,20 +123,11 @@ const Contact = () => {
                 <Phone className="text-[#ee692c] mr-4" size={24} />
                 <div>
                   <h3 className="font-semibold mb-1">Téléphone</h3>
-                  <p className="text-gray-600">+33 1 23 45 67 89</p>
+                  <p className="text-gray-600">+229 0162616386</p>
+                  <p className="text-gray-600">+229 0159975248</p>
                 </div>
               </div>
 
-              <div className="flex items-start">
-                <MapPin className="text-[#ee692c] mr-4" size={24} />
-                <div>
-                  <h3 className="font-semibold mb-1">Adresse</h3>
-                  <p className="text-gray-600">
-                    123 Avenue de la Tech<br />
-                    75000 Paris, France
-                  </p>
-                </div>
-              </div>
             </div>
           </div>
         </div>
