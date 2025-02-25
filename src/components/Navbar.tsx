@@ -33,7 +33,7 @@ const Navbar = () => {
             {/* Mobile Menu Button */}
             <div className="md:hidden flex items-center space-x-4">
               <a
-                  href="https://wa.me/0162616386" // Replace with your WhatsApp number
+                  href="https://wa.me/2290162616386" // Replace with your WhatsApp number
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-700 hover:text-[#25D366] focus:outline-none"
